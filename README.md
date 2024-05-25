@@ -1,2 +1,2 @@
 # DeMask
-A pricing tool for professional painter and decorators.
+A pricing tool for professional painters & decorators.
