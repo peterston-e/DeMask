@@ -2,9 +2,10 @@ import { Button } from "@/components/ui/button";
 
 export default function Home() {
 	return (
-		<main>
-			<Button>help</Button>
-		</main>
+		<div>
+			HomePage
+			<Button>Click me</Button>
+		</div>
 	);
 }
 
