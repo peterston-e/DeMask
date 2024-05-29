@@ -25,6 +25,11 @@ export default function Header() {
 			date: "02-01-2016",
 			read: false,
 		},
+		{
+			text: "Call Mum",
+			date: "02-01-2016",
+			read: false,
+		},
 	]);
 	return (
 		<div className="grid grid-cols-2 gap-4 border-b p-4">
