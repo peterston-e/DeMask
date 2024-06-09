@@ -31,7 +31,7 @@ jobs:
           username: ${{ secrets.AWS_EC2_USER }}
           key: ${{ secrets.AWS_EC2_KEY }}
           script: |
-            cd /path/to/remote/app
+            cd DeMask
             git pull origin main
             npm install
             npm run build
