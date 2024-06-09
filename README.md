@@ -101,3 +101,5 @@ Deploying a simple Next.js 14 application to AWS and setting up a CI/CD pipeline
 - **Logging & Monitoring**: Implement logging and monitoring to keep track of your application's health.
 
 By following these steps, you can establish a robust CI/CD pipeline that automatically deploys your Next.js application to AWS whenever you push changes to your GitHub repository.
+
+THIS is a minor change to test the pipe.
